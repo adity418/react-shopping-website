@@ -249,7 +249,7 @@
       "saleDiscount": 25,
       "price": 70.76,
       "rating": 5,
-      "image": "/assets/dami-adebayo-k6aQzmIbR1s-unsplash.jpg"
+      "image": "./assets/dami-adebayo-k6aQzmIbR1s-unsplash.jpg"
     },
     {
       "id": 22,
@@ -261,7 +261,7 @@
       "saleDiscount": 15,
       "price": 52.82,
       "rating": 5,
-      "image": "/assets/caio-coelho-xFmXLq_KJxg-unsplash.jpg"
+      "image": "./assets/caio-coelho-xFmXLq_KJxg-unsplash.jpg"
     },
     {
       "id": 23,
@@ -273,7 +273,7 @@
       "saleDiscount": 13,
       "price": 16.6,
       "rating": 3,
-      "image": "/assets/chris-lynch-pRdi2no2fvs-unsplash.jpg"
+      "image": "./assets/chris-lynch-pRdi2no2fvs-unsplash.jpg"
     },
     {
       "id": 24,
@@ -285,7 +285,7 @@
       "saleDiscount": 12,
       "price": 54.99,
       "rating": 4,
-      "image": "/assets/phil-monte-4V4t0JcOM5E-unsplash.jpg"
+      "image": "./assets/phil-monte-4V4t0JcOM5E-unsplash.jpg"
     },
     {
       "id": 25,
@@ -297,7 +297,7 @@
       "saleDiscount": 24,
       "price": 19.43,
       "rating": 4,
-      "image": "/assets/freestocks-8hAsLeE6Fbo-unsplash.jpg"
+      "image": "./assets/freestocks-8hAsLeE6Fbo-unsplash.jpg"
     },
     {
       "id": 26,
@@ -309,7 +309,7 @@
       "saleDiscount": 13,
       "price": 66.07,
       "rating": 1,
-      "image": "/assets/irene-kredenets-dwKiHoqqxk8-unsplash.jpg"
+      "image": "./assets/irene-kredenets-dwKiHoqqxk8-unsplash.jpg"
     },
     {
       "id": 27,
@@ -321,7 +321,7 @@
       "saleDiscount": 22,
       "price": 38.88,
       "rating": 5,
-      "image": "/assets/faith-yarn-Wr0TpKqf26s-unsplash.jpg"
+      "image": "./assets/faith-yarn-Wr0TpKqf26s-unsplash.jpg"
     },
     {
       "id": 28,
@@ -333,7 +333,7 @@
       "saleDiscount": 31,
       "price": 32.06,
       "rating": 3,
-      "image": "/assets/revolt-164_6wVEHfI-unsplash.jpg"
+      "image": "./assets/revolt-164_6wVEHfI-unsplash.jpg"
     },
     {
       "id": 29,
@@ -345,7 +345,7 @@
       "saleDiscount": 14,
       "price": 70.11,
       "rating": 3,
-      "image": "/assets/dom-hill-nimElTcTNyY-unsplash.jpg"
+      "image": "./assets/dom-hill-nimElTcTNyY-unsplash.jpg"
     },
     {
       "id": 30,
@@ -357,7 +357,7 @@
       "saleDiscount": 34,
       "price": 55.11,
       "rating": 2,
-      "image": "/assets/dom-hill-nimElTcTNyY-unsplash.jpg"
+      "image": "./assets/dom-hill-nimElTcTNyY-unsplash.jpg"
     },
     {
       "id": 31,
@@ -369,7 +369,7 @@
       "saleDiscount": 22,
       "price": 11.81,
       "rating": 2,
-      "image": "/assets/dami-adebayo-k6aQzmIbR1s-unsplash.jpg"
+      "image": "./assets/dami-adebayo-k6aQzmIbR1s-unsplash.jpg"
     },
     {
       "id": 32,
@@ -381,7 +381,7 @@
       "saleDiscount": 25,
       "price": 39.83,
       "rating": 1,
-      "image": "/assets/caio-coelho-xFmXLq_KJxg-unsplash.jpg"
+      "image": "./assets/caio-coelho-xFmXLq_KJxg-unsplash.jpg"
     },
     {
       "id": 33,
@@ -393,7 +393,7 @@
       "saleDiscount": 29,
       "price": 28.16,
       "rating": 2,
-      "image": "/assets/benjamin-rascoe-KF-q_SGqswg-unsplash.jpg"
+      "image": "./assets/benjamin-rascoe-KF-q_SGqswg-unsplash.jpg"
     },
     {
       "id": 34,
@@ -405,7 +405,7 @@
       "saleDiscount": 39,
       "price": 67.85,
       "rating": 2,
-      "image": "/assets/phil-monte-4V4t0JcOM5E-unsplash.jpg"
+      "image": "./assets/phil-monte-4V4t0JcOM5E-unsplash.jpg"
     },
     {
       "id": 35,
@@ -417,7 +417,7 @@
       "saleDiscount": 43,
       "price": 66.74,
       "rating": 5,
-      "image": "/assets/irene-kredenets-dwKiHoqqxk8-unsplash.jpg"
+      "image": "./assets/irene-kredenets-dwKiHoqqxk8-unsplash.jpg"
     },
     {
       "id": 36,
@@ -429,7 +429,7 @@
       "saleDiscount": 24,
       "price": 61.13,
       "rating": 1,
-      "image": "/assets/freestocks-8hAsLeE6Fbo-unsplash.jpg"
+      "image": "./assets/freestocks-8hAsLeE6Fbo-unsplash.jpg"
     },
     {
       "id": 37,
@@ -441,7 +441,7 @@
       "saleDiscount": 42,
       "price": 57.41,
       "rating": 2,
-      "image": "/assets/faith-yarn-Wr0TpKqf26s-unsplash.jpg"
+      "image": "./assets/faith-yarn-Wr0TpKqf26s-unsplash.jpg"
     },
     {
       "id": 38,
@@ -453,7 +453,7 @@
       "saleDiscount": 29,
       "price": 75.1,
       "rating": 2,
-      "image": "/assets/revolt-164_6wVEHfI-unsplash.jpg"
+      "image": "./assets/revolt-164_6wVEHfI-unsplash.jpg"
     },
     {
       "id": 39,
@@ -465,7 +465,7 @@
       "saleDiscount": 19,
       "price": 52.36,
       "rating": 5,
-      "image": "/assets/dom-hill-nimElTcTNyY-unsplash.jpg"
+      "image": "./assets/dom-hill-nimElTcTNyY-unsplash.jpg"
     },
     {
       "id": 40,
@@ -477,7 +477,7 @@
       "saleDiscount": 24,
       "price": 47.51,
       "rating": 5,
-      "image": "/assets/dom-hill-nimElTcTNyY-unsplash.jpg"
+      "image": "./assets/dom-hill-nimElTcTNyY-unsplash.jpg"
     },
     {
       "id": 41,
@@ -489,7 +489,7 @@
       "saleDiscount": 44,
       "price": 20.61,
       "rating": 1,
-      "image": "/assets/dami-adebayo-k6aQzmIbR1s-unsplash.jpg"
+      "image": "./assets/dami-adebayo-k6aQzmIbR1s-unsplash.jpg"
     },
     {
       "id": 42,
@@ -501,7 +501,7 @@
       "saleDiscount": 33,
       "price": 60.36,
       "rating": 2,
-      "image": "/assets/phil-monte-4V4t0JcOM5E-unsplash.jpg"
+      "image": "./assets/phil-monte-4V4t0JcOM5E-unsplash.jpg"
     },
     {
       "id": 43,
@@ -513,7 +513,7 @@
       "saleDiscount": 12,
       "price": 13.87,
       "rating": 3,
-      "image": "/assets/chris-lynch-pRdi2no2fvs-unsplash.jpg"
+      "image": "./assets/chris-lynch-pRdi2no2fvs-unsplash.jpg"
     },
     {
       "id": 44,
@@ -525,7 +525,7 @@
       "saleDiscount": 20,
       "price": 10.47,
       "rating": 5,
-      "image": "/assets/caio-coelho-xFmXLq_KJxg-unsplash.jpg"
+      "image": "./assets/caio-coelho-xFmXLq_KJxg-unsplash.jpg"
     },
     {
       "id": 45,
@@ -537,7 +537,7 @@
       "saleDiscount": 49,
       "price": 41.01,
       "rating": 1,
-      "image": "/assets/irene-kredenets-dwKiHoqqxk8-unsplash.jpg"
+      "image": "./assets/irene-kredenets-dwKiHoqqxk8-unsplash.jpg"
     },
     {
       "id": 46,
@@ -549,7 +549,7 @@
       "saleDiscount": 25,
       "price": 10.15,
       "rating": 5,
-      "image": "/assets/freestocks-8hAsLeE6Fbo-unsplash.jpg"
+      "image": "./assets/freestocks-8hAsLeE6Fbo-unsplash.jpg"
     },
     {
       "id": 47,
@@ -561,7 +561,7 @@
       "saleDiscount": 22,
       "price": 46.23,
       "rating": 3,
-      "image": "/assets/benjamin-rascoe-KF-q_SGqswg-unsplash.jpg"
+      "image": "./assets/benjamin-rascoe-KF-q_SGqswg-unsplash.jpg"
     },
     {
       "id": 48,
@@ -573,7 +573,7 @@
       "saleDiscount": 47,
       "price": 67.68,
       "rating": 4,
-      "image": "/assets/revolt-164_6wVEHfI-unsplash.jpg"
+      "image": "./assets/revolt-164_6wVEHfI-unsplash.jpg"
     },
     {
       "id": 49,
@@ -585,6 +585,6 @@
       "saleDiscount": 32,
       "price": 55.33,
       "rating": 4,
-      "image": "/assets/chris-lynch-pRdi2no2fvs-unsplash.jpg"
+      "image": "./assets/chris-lynch-pRdi2no2fvs-unsplash.jpg"
     }
   ]

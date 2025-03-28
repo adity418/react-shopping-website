@@ -1,4 +1,4 @@
-import React, { useContext, useReducer, useState } from "react";
+import React, { useContext, useState } from "react";
 import "./ItemDetail.css";
 import items from "../../mockData/items.json";
 import { GlobalContext } from "../../context/GlobalState";
